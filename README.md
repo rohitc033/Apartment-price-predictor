@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apartment Management System
 
 # Contents
@@ -84,3 +85,6 @@ npm start
 
 
 `Thank you!🧑‍💻`
+=======
+# Apartment-price-predictor
+>>>>>>> c7b313cd0a39a2a1dbeadd608005db8525f9b6b3
